@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.0.0'
+ruby '2.1.5'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.8'
@@ -15,6 +15,9 @@ gem 'coffee-rails', '~> 4.0.0'
 
 #Added the BootStrap gem myself
 gem 'bootstrap-sass'
+
+#Added the devise gem for sign up and login stuff
+gem 'devise', '~> 3.5.1'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
