@@ -19,6 +19,9 @@ gem 'bootstrap-sass'
 #Added the devise gem for sign up and login stuff
 gem 'devise', '~> 3.5.1'
 
+#Adding paperclip
+gem 'paperclip', github: 'thoughtbot/paperclip'
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
