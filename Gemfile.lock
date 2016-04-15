@@ -83,6 +83,7 @@ GEM
       railties (>= 3.1.0)
       turbolinks
     json (1.8.3)
+    liquid (3.0.6)
     mail (2.6.3)
       mime-types (>= 1.16, < 3)
     masonry-rails (0.2.4)
@@ -171,6 +172,7 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jquery-rails
   jquery-turbolinks
+  liquid (~> 3.0, >= 3.0.1)
   masonry-rails (~> 0.2.0)
   paperclip!
   pg
